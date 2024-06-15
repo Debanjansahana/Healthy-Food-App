@@ -1,0 +1,11 @@
+.ds-item{
+  background-color:navajowhite;
+
+}
+.ds-span{
+  font-weight: 700;
+  color: rgb(117, 14, 14);
+}
+.button{
+float: right;
+}
